@@ -8,7 +8,7 @@
 Name: libcutefish
 Version: 0.7
 #Version: %%{version}git.%%(date +%Y%m%d).%%{git_refspec_short}
-Release: 1%{?dist}
+Release: 2%{?dist}
 License: GPLv3
 Summary: CutefishOS system library
 
